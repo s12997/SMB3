@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SMB1</string>
+    <string name="button1_name">Products</string>
+    <string name="button2_name">Options</string>
+    <string name="title_activity_products">ProductsActivity</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="options">OPTIONS</string>
+    <string name="product_list">PRODUCT LIST</string>
+    <string name="back_arrow"><![CDATA[<-]]></string>
+    <string name="save">SAVE</string>
+    <string name="darkmode">DarkMode</string>
+    <string name="add_new">ADD NEW</string>
+    <string name="main_screen">MAIN SCREEN</string>
+    <string name="font_size">Font size</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
